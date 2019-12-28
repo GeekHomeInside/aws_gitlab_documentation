@@ -7,3 +7,4 @@ title: "AWS Gitlab Stack"
 - [Architecture](./)
 - [How to deploy the stack](./)
 - [CONTRIBUTE](./)
+- TEST
